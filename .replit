@@ -1,0 +1,5 @@
+run = "./run.sh"
+entrypoint = "README.md"
+
+[nix]
+channel = "stable-24_05"
